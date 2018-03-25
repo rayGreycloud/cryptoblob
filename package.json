@@ -1,0 +1,11 @@
+{
+  "name": "cryptoblob",
+  "version": "1.0.0",
+  "description": "crypto collectable creature ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rayGreycloud",
+  "license": "ISC"
+}
